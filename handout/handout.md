@@ -41,3 +41,5 @@ After the workshop the participants
 - Introduction to Machine Learning with Python, Andreas C. Müller & Sarah Guido
 
 - Hands-On Machine Learning with Scikit-Learn & TensorFlow, Aurélien Géron
+
+## FAQ
