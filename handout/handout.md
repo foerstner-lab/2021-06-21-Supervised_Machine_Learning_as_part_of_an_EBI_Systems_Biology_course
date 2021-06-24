@@ -43,3 +43,7 @@ After the workshop the participants
 - Hands-On Machine Learning with Scikit-Learn & TensorFlow, Aurélien Géron
 
 ## FAQ
+- How can we choose the best model for the analysis?
+- How to balance training datasets?
+- What are the best practices for fitting model parameters?
+- How to encode each type of data?
